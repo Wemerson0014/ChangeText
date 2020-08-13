@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChangeText</string>
+    <string name="text_changed">Text to be changed</string>
+    <string name="edit_your_text">Your text here</string>
+    <string name="button_change_text">Change Text</string>
+</resources>
